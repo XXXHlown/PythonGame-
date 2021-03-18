@@ -1,4 +1,4 @@
-# PythonGame-
+# PythonGame-消灭外星人!
 
 ## 完全用Python做出的小游戏
 参考书籍《Python编程：从入门到实践》<br>
